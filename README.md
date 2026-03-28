@@ -135,6 +135,3 @@ El proyecto puede ser desplegado en:
 Este proyecto es de uso académico y puede ser adaptado para fines educativos.
 
 ---
-
-## ⭐ Nota Final
-
