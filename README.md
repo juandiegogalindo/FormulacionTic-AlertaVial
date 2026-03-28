@@ -138,4 +138,3 @@ Este proyecto es de uso académico y puede ser adaptado para fines educativos.
 
 ## ⭐ Nota Final
 
-Este proyecto busca 
