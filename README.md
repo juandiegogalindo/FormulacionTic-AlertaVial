@@ -138,4 +138,4 @@ Este proyecto es de uso académico y puede ser adaptado para fines educativos.
 
 ## ⭐ Nota Final
 
-Este proyecto busca no solo cumplir un objetivo académico, sino generar un impacto real en la seguridad vial mediante el uso de tecnología accesible e innovadora.
+Este proyecto busca no solo cumplir un objetivo académico, sino generar un impacto real en la seguridad vial mediante el uso de tecnología accesible e 
