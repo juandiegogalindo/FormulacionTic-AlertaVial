@@ -127,7 +127,3 @@ El proyecto puede ser desplegado en:
 * Uso de inteligencia artificial 🤖
 * Análisis de datos en tiempo real 📊
 * Integración con autoridades de tránsito 🚓
-
----
-
-## 
