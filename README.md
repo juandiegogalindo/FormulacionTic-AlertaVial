@@ -115,12 +115,6 @@ El proyecto puede ser desplegado en:
 
 ---
 
-## 📈 Estado del Proyecto
-
-🟢 En desarrollo (90%)
-
----
-
 ## 📌 Futuras Mejoras
 
 * Integración con app móvil 📱
