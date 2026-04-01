@@ -93,7 +93,6 @@ El proyecto puede ser desplegado en:
 
 * GitHub Pages
 * Netlify
-* Vercel
 
 ---
 
