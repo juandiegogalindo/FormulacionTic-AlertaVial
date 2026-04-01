@@ -89,7 +89,7 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 ## 🚀 Despliegue
 
-El proyecto puede ser 
+El proyecto
 ---
 
 ## 📊 Impacto Esperado
