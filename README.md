@@ -95,7 +95,6 @@ El proyecto puede ser desplegado en:
 * Netlify
 * Vercel
 
-🔗 Asegúrate de que el archivo
 ---
 
 ## 📊 Impacto Esperado
