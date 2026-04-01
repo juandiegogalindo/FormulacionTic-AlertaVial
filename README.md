@@ -87,8 +87,7 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 ---
 
-## 🚀 Despliegue
-
+## 🚀
 ---
 
 ## 📊 Impacto Esperado
