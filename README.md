@@ -95,8 +95,7 @@ El proyecto puede ser desplegado en:
 * Netlify
 * Vercel
 
-🔗 Asegúrate de que el archivo `index.html` esté en la raíz del proyecto.
-
+🔗 Asegúrate de que el archivo `index.html` 
 ---
 
 ## 📊 Impacto Esperado
