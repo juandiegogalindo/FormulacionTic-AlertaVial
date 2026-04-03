@@ -14,8 +14,6 @@ El sistema detecta cuando un vehículo no respeta una señal de tránsito críti
 
 ## 🎯 Problemática
 
-En muchas zonas:
-
 * ❌ Conductores no respetan señales de PARE
 * ❌ Alta tasa de accidentes en intersecciones
 * ❌ Falta de control y monitoreo en tiempo real
