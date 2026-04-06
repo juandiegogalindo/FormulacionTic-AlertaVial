@@ -89,7 +89,6 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 * 🚗 Reducción de accidentes
 * 🚦 Mejora en el respeto de señales
-* 🌍 Aporte a ciudades inteligentes
 
 ---
 
