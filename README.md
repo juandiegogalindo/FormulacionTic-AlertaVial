@@ -85,9 +85,6 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 ---
 
-
----
-
 ## 📌 Futuras Mejoras
 
 * Integración con app móvil 📱
