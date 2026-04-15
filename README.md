@@ -63,7 +63,6 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 * Sensores de movimiento
 * Microcontroladores (Arduino / ESP32)
-* Sistema de alertas (LED / sonido)
 
 ---
 
