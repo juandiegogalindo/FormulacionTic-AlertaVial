@@ -61,7 +61,6 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 ### 🔌 Hardware
 
-* 
 ---
 
 ## 📁 Estructura del Proyecto
