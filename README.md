@@ -62,8 +62,7 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 ### 🔌 Hardware
 
 * Sensores de movimiento
-* Microcontroladores (Arduino / ESP32)
-
+* Microcontroladores
 ---
 
 ## 📁 Estructura del Proyecto
