@@ -59,8 +59,6 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 
 * Node.js / Java / PHP
 
-### 🔌 Hardware
-
 ---
 
 ## 📁 Estructura del Proyecto
