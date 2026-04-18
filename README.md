@@ -55,10 +55,6 @@ Reducir accidentes de tránsito mediante la implementación de un sistema inteli
 * CSS3
 * JavaScript
 
-### ⚙️ Backend (posible integración)
-
-* Node.js / Java / PHP
-
 ---
 
 ## 📁 Estructura del Proyecto
