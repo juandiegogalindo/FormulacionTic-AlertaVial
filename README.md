@@ -1,6 +1,7 @@
 # Alerta Vial
 
-Sitio web informativo de un proyecto de ingeniería que propone un sistema de sensores para alertar a los conductores sobre el cumplimiento de la señal de **PARE** en intersecciones con baja visibilidad, especialmente durante la noche.
+Sitio web informativo de un proyecto de ingeniería que propone un sistema de sensor para prevenir accidentes en las intersecciones donde existe una señal de PARE, la cual por confianza o intuision se saltan y ocurren accidentes, principalmente en horas de la noche.
+- LINK: [Alerta Vial - Formulacion TIC](https://alertavialtic.netlify.app/)
 
 ---
 
@@ -26,8 +27,8 @@ El sistema propuesto (fuera de este repositorio) detectaría cuando un vehículo
 ## Solución Propuesta
 
 * Sensor de detección de vehículos en la intersección
-* Identificación de incumplimiento de la señal PARE
-* Activación de alertas visuales/sonoras
+* Identificación el flujo de carro en la via contraria a la señal PARE
+* Activación de alertas visuales/sonoras de la misma señal de PARE
 * Divulgación del proyecto a través de esta plataforma web
 
 ---
@@ -99,15 +100,6 @@ El proyecto está pensado para desplegarse como sitio estático en un dominio p�
 
 ---
 
-## Consideraciones y limitaciones detectadas
-
-* El archivo de la sección "Impacto" se llama **`funtion.html`** (con error de tipografía, debería ser `function.html`). El menú de navegación ya apunta correctamente a `funtion.html`, así que **no romper el enlace** si se corrige el nombre del archivo.
-* La hoja de estilos principal se referencia con ruta absoluta (`/css/style.css`). Esto funciona bien en un despliegue en servidor/dominio (como Netlify), pero puede no cargar si el archivo `index.html` se abre directamente desde el explorador de archivos local.
-* El formulario de contacto (`mail/contact.php`) usa la función `mail()` de PHP, la cual solo funciona en un hosting con servidor PHP y correo configurado (no funciona en Netlify tal cual, ya que Netlify no ejecuta PHP). Si se despliega ahí, el formulario necesitaría un servicio alterno (por ejemplo, Netlify Forms o un backend externo).
-* El mapa embebido de Google Maps en `index.html` apunta por defecto a Nueva York (dato de la plantilla original, sin personalizar a la ubicación real del proyecto).
-
----
-
 ## Equipo de Ingenieros
 
 | Rol | Integrante |
@@ -126,4 +118,11 @@ El proyecto está pensado para desplegarse como sitio estático en un dominio p�
 * Uso de inteligencia artificial para el análisis de patrones de infracción
 * Análisis de datos en tiempo real
 * Integración con autoridades de tránsito
-* Corregir el nombre del archivo `funtion.html` → `function.html`
+
+---
+
+**Juan Diego Galindo**
+Estudiante de Ingeniería de Sistemas - Séptimo Semestre
+ 
+- GitHub: [@juandiegogalindo](https://github.com/juandiegogalindo)
+- LinkedIn: [Juan Diego Galindo - Full Stack](https://linkedin.com/in/jdgalindo6)
